@@ -1,13 +1,13 @@
-🧠 DSA Assignments
+# 🧠 DSA Assignments
 
 This repository contains my Data Structures and Algorithms (DSA) assignments written in C language.
 Each assignment focuses on implementing fundamental algorithms and problem-solving techniques.
 
 --
 
-📂 Assignments Included
+## 📂 Assignments Included
 
-🧩 Assignment 1
+### 🧩 Assignment 1
 
 Finding the minimum value in an array
 
@@ -21,7 +21,7 @@ matrix
 
 --
 
-⚡ Assignment 2
+### ⚡ Assignment 2
 
 Selection Sort implementation
 
