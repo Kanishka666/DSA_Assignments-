@@ -3,7 +3,7 @@
 This repository contains my Data Structures and Algorithms (DSA) assignments written in C language.
 Each assignment focuses on implementing fundamental algorithms and problem-solving techniques.
 
---
+---
 
 ## 📂 Assignments Included
 
@@ -19,7 +19,7 @@ Array rotation
 
 matrix
 
---
+---
 
 ### ⚡ Assignment 2
 
