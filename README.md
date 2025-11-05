@@ -13,8 +13,6 @@ Finding the minimum value in an array
 
 Finding the second minimum value in an array
 
-Performing binary search on a sorted array
-
 Array rotation
 
 matrix
@@ -27,6 +25,6 @@ Selection Sort implementation
 
 Quick Sort implementation
 
-Binary Search
+Binary Search implementation
 
-Linear Search
+Linear Search implementation
